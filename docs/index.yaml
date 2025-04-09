@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ceph-csi-operator:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2025-04-09T10:49:19.906794597Z"
+    description: A Helm chart to distribute the project ceph-csi-operator
+    digest: 4ae7fc642fa9b23810a0706b32025febedb9a6ebcbaac585ed9c07bc7cac7bf6
+    name: ceph-csi-operator
+    type: application
+    urls:
+    - https://ceph.github.io/ceph-csi-operator-charts/ceph-csi-operator/ceph-csi-operator-v0.3.0.tgz
+    version: v0.3.0
+generated: "2025-04-09T10:49:19.903003035Z"
